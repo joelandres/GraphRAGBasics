@@ -1,0 +1,4 @@
+graphrag query \
+--root ./christmas \
+--method global \
+--query "What are the top themes in this story?"

@@ -1,0 +1,4 @@
+graphrag query \
+--root ./christmas \
+--method local \
+--query "Who is Scrooge and what are his main relationships?"
